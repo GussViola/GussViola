@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @GussViola
-- 👀 I’m interested in learning web development
-- 🌱 I’m currently learning C
+- 👀 I’m currently building BeeMessage on Next.js.
+- 🌱 I’m currently learning Ruby
 - 💞️ I’m a Software Engineer student at Amsterdam Tech
-- 📫 viola.gustavo9010@gmail.com
+- 📫 gustavo@brosds.com
 
 <!---
 GussViola/GussViola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
